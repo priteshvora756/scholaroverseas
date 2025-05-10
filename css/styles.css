@@ -1,0 +1,17 @@
+.testimonial-slider {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.testimonial-card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 10px;
+}
+.testimonial-card h3 {
+    color: #0d1128;
+    font-weight: bold;
+}
